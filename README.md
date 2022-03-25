@@ -1,4 +1,2 @@
-# MyProject
-My first project
-string1
-string2
+# TermPaper
+Overview of code based cryptography algorythms
